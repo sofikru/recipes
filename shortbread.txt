@@ -3,4 +3,7 @@ Ingredients:
  - sugar
  - flour
 
-
+Instructions:
+- melt butter and leave until room temperature
+- mix flour and sugar
+- add butter
