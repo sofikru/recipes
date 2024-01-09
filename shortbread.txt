@@ -3,4 +3,8 @@ Ingredients:
  - sugar
  - flour
 
-
+Instructions:
+ - preheat oven
+ - mix ingredients
+ - put everything in the oven!
+ - don't forget to take it out when it's ready
